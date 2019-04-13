@@ -33,6 +33,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "d3-interpolate": "^1.1.2",
+    "expo": "^32.0.6",
     "lodash.range": "^3.2.0",
     "react-native-svg": ">=6.4.1"
   },
